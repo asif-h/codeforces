@@ -1,8 +1,8 @@
 # codeforces-problem
 151A-soft drink
 
-#include<iostream>
-#include<algorithm>
+#include<bits/stdc++.h>
+
 using namespace std;
 
 int main()
