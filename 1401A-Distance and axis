@@ -4,6 +4,7 @@ int main()
 {
 	// this is CodeForces Div 2 
 	// Added Comments
+	//number of test-cases
 	int t;
 	cin>>t;
 	while(t--)
